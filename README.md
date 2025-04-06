@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...bryanhazelton66@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...I am actually a healthcare professional (Pharm.D.) looking to transition to tech. Avid Everton fan (life of misery)
+- ⚡ Fun fact: ...healthcare professional with a passion for computer science
 
 <!---
 bryhazelton/bryhazelton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
